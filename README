@@ -18,7 +18,7 @@ You can convert GMT date to UNIX format http://www.onlineconversion.com/unix_tim
 
 During ICO:
 You should set presale contract address to ICO contract.
-When investor purchase ICO contract should call balanceOf(invesot address) from presale contract.
+When investor purchase ICO contract should call balanceOf(invesor address) from presale contract.
 
 ================================================================
 =                                                              =
